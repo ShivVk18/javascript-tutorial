@@ -1,0 +1,1 @@
+console.log(two(7,3))
